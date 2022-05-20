@@ -10,4 +10,6 @@ build an API with Nest.js
 - REST API
   - Make Controller
   - Get Body & Query
+  - Make Entity
+  - Create Service
   - ...
