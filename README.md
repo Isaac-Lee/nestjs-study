@@ -8,8 +8,8 @@ build an API with Nest.js
   - Controllers
   - Services
 - REST API
-  - Make Controller
+  - Controller
   - Get Body & Query
   - Make Entity
-  - Create Service
+  - Service
   - ...
