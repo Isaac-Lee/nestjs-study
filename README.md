@@ -12,4 +12,6 @@ build an API with Nest.js
   - Get Body & Query
   - Make Entity
   - Service
+  - DTOs
+  - Validation
   - ...
