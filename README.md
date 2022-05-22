@@ -14,4 +14,7 @@ build an API with Nest.js
   - Service
   - DTOs
   - Validation
+  - Modules
+  - Dependency Injection
+- Unit Testing
   - ...
