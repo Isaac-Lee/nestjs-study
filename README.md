@@ -17,4 +17,7 @@ build an API with Nest.js
   - Modules
   - Dependency Injection
 - Unit Testing
-  - ...
+  - Make a test w/ Jest
+  - Test Function
+  - Check Coverage
+- E2E Testing
