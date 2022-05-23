@@ -11,7 +11,6 @@ describe('MoviesService', () => {
     }).compile();
 
     service = module.get<MoviesService>(MoviesService);
-    
     service.create({
       title: 'Test Movie',
       genres: ['test'],
