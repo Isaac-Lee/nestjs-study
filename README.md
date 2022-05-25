@@ -21,3 +21,5 @@ build an API with Nest.js
   - Test Function
   - Check Coverage
 - E2E Testing
+  - Make a e2e test w/ Jest
+  - Mocking the app in test
